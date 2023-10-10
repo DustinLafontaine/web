@@ -1,0 +1,45 @@
+main { min-height: 80vh;
+    background-color: blue;
+  
+  
+}
+section {
+    font-size: x-large;
+}
+h2 {background-color: blue;
+    font-size: 20px;
+    color: beige;
+}
+h3 { 
+    color: black;
+    border: solid; width: 10%; height: 50px;
+    background-color: blue;
+    font-size: 40px
+    
+    
+}
+section {
+    color: beige;
+    font-size: 20px;
+    text-align: start;
+
+}
+img {
+    left: 200px;
+    top: 200px;
+}
+footer {
+    background-color: blue;
+}
+nav {
+    background-color: beige;
+    text-align: right;
+}
+h1{
+    background-color: blue;
+}
+body {
+    margin: 0;
+    padding: 10px;
+    background-color: blue;
+}

@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    padding: 50px;
+    background-color: blue;
+}
+header {
+    width: 100vw;
+    height: 50px;
+    background-color: beige;
+}
+main {
+    min-height: 80vh;
+    background-color: blue;
+}
+footer {
+    width: 100vw;
+    height: 50px;
+    background-color: beige;
+}
+img {
+    
+    left: 50vh;
+    top: 50px;
+    
+}
+div{
+    text-align: left;
+   padding-bottom: 100px;
+   background-color: blue;
+}
+nav{
+    text-align: right;
+    align-items: center;
+    background-color: beige;
+}
+article{
+    position: absolute;
+    
+}
+p {
+    padding: 10px;
+    font-size: x-large;
+    color: beige;
+}
+h2 {
+    border: solid; width: 15%; height: 30px;
+    color: black;
+    background-color: blue;
+}
+footer {
+    background-color: blue;
+}
