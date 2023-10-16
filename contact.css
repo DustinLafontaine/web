@@ -1,0 +1,49 @@
+form {
+    display: grid;
+    grid-template-columns: ;
+    
+}
+body {
+    background-color: blue;
+    font-size: calc(5px + 0.5vw);
+}
+input#Name{
+    padding: 1px;
+    width: 500px;
+    
+}
+input#Email, input#Message {
+    width: 500px;
+
+}
+input#Message {
+    height: 200px; 
+    
+}
+@media (max-width: 768px) {
+    body{
+        background-color: red;
+    }
+}
+input:hover{
+    background-color: lightblue;
+}
+button:hover {
+    background-color: lightblue;
+}
+button#submit-btn {
+    margin-top: 20px;
+    border: solid black;
+}
+label {
+    font-size: bold;
+    font-size: 30px;
+
+}
+label:nth-child(3){
+    color: chartreuse;
+}
+nav {
+    background-color: white;
+   text-align: right;
+}
